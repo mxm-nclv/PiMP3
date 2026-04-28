@@ -7,12 +7,14 @@ Week 12 Update:
     
 Goal reached, Ideal SBC(Single Board Computer) is Raspberry Pi Zero 2 WH(Wireless with Headers)
     Pirate Audio Headphone amp for audio/input
+
 ---
 Week 13 Update:
     Goal: Install Git, Pycharm, Create github Repo
     
 Goal reached, git installed, pycharm working, github repo created under:
     https://github.com/mxm-nclv/PiMP3
+
 ------------------
 Week 14 Update:
 Goal: Recieve/Order Parts
@@ -20,6 +22,7 @@ Goal: Recieve/Order Parts
 Goal reached
     PI arrived well, no complaints
     Pirate Audio Headphone amp not available in my region. Took a trip to microcenter, bought SMOL speaker amp, should work fine.
+
 ---
 Week 15 Update:
 Goal: Put Pi+Pirate Audio together, begin coding
