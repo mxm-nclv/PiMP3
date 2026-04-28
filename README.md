@@ -1,2 +1,40 @@
 # PiMP3
 (NOT FINISHED)raspberry Pi zero 2wh with a pirate audio HAT mp3 player
+
+
+Week 12 Update:
+    Goal: research Materials
+    
+Goal reached, Ideal SBC(Single Board Computer) is Raspberry Pi Zero 2 WH(Wireless with Headers)
+    Pirate Audio Headphone amp for audio/input
+---
+Week 13 Update:
+    Goal: Install Git, Pycharm, Create github Repo
+    
+Goal reached, git installed, pycharm working, github repo created under:
+    https://github.com/mxm-nclv/PiMP3
+------------------
+Week 14 Update:
+Goal: Recieve/Order Parts
+
+Goal reached
+    PI arrived well, no complaints
+    Pirate Audio Headphone amp not available in my region. Took a trip to microcenter, bought SMOL speaker amp, should work fine.
+---
+Week 15 Update:
+Goal: Put Pi+Pirate Audio together, begin coding
+
+Goal Reached: Pi+Amp connects a-ok, having bugs with coding, need to troubleshoot.
+
+---
+Week 16 Update:
+Goal: Code UI/Kernel, Obtain MP3's of audio.
+
+---
+Week 17 Update:
+Goal: Final tweaks, debug, make sure works consistently
+
+---
+Week 18 Update:
+Goal: Present!
+
