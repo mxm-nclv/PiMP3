@@ -1,4 +1,4 @@
-# PiMP3
+# Pi_MP3
 (NOT FINISHED)raspberry Pi zero 2wh with a pirate audio HAT mp3 player
 
 
@@ -28,6 +28,8 @@ Week 15 Update:
 Goal: Put Pi+Pirate Audio together, begin coding
 
 Goal Reached: Pi+Amp connects a-ok, having bugs with coding, need to troubleshoot.
+
+April 29 Update: Renamed repo to Pi_MP3 due to issues. Having ssh/serial device issues with computer, needs to be fixed.
 
 ---
 Week 16 Update:
