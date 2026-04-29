@@ -31,6 +31,8 @@ Goal Reached: Pi+Amp connects a-ok, having bugs with coding, need to troubleshoo
 
 April 29 Update: Renamed repo to Pi_MP3 due to issues. Having ssh/serial device issues with computer, needs to be fixed.
 
+April 29 v2: Test to make sure commit still works
+
 ---
 Week 16 Update:
 Goal: Code UI/Kernel, Obtain MP3's of audio.
