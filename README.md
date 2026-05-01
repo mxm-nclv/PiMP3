@@ -40,6 +40,8 @@ April 29 v2: Test to make sure commit still works
 April 30 Update: Made a breakthrough, got pi to work as RNDIS credit to the following github repo
 https://github.com/raspberrypi/rpi-usb-gadget/releases
 
+May 1 Update: Driver Failure again, will need to fallback to Pi4B, hopefully that will work, no more progress to be done today, will need to grab 4B from home.
+
 ---
 Week 16 Update:
 Goal: Code UI/Kernel, Obtain MP3's of audio.
