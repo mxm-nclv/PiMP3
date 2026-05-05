@@ -46,7 +46,9 @@ May 1 Update: Driver Failure again, will need to fallback to Pi4B, hopefully tha
 Week 16 Update:
 Goal: Code UI/Kernel, Obtain MP3's of audio.
 
-May 4th Update: Brought Pi4B from home, headers are too short, can't connect hat, will look into alternatives from home(might have a Pi3?) MP3's of a few simple songs got for testings sake.
+May 4th Update: Brought Pi4B from home, headers are too short, heatsink gets in the way, can't connect hat, will look into alternatives from home(might have a Pi3?). MP3's of a few simple songs obtained for testings sake.
+
+May 5th Update: Haven't found Pi3 Yet, need to search at home
 
 ---
 Week 17 Update:
