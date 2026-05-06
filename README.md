@@ -50,6 +50,8 @@ May 4th Update: Brought Pi4B from home, headers are too short, heatsink gets in 
 
 May 5th Update: Haven't found Pi3 Yet, need to search at home
 
+May 5th night/6th Update: found Pi3, and got volumio running thru cloud(yippee!) and got some audio running, working on getting it 100% local
+
 ---
 Week 17 Update:
 Goal: Final tweaks, debug, make sure works consistently
